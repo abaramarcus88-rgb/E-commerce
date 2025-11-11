@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div style="background-color: blue; text-align: center; height: 300px; "> 
+        <h1 style="color:white; font-family:sans-serif; padding-top: 80px;"> Welcome To My Website</h1>
+        <P style="font-size: 16px; font-family:sans-serif ;color: white; margin-bottom: 50px;"> Your one-stop solution for amazing service</P>
+        <botton style="background-color: white; padding: 16px; border-radius: 6px; color: blue; font-weight: bold; font-family:sans-serif  "> Learn More</botton>
+    </div>
+ 
+    <div style="text-align: center;">
+        <h2 style="font-size: 42px;"> Our Products </h2>
+        <div style="display: flex; align-items: center; justify-content: space-between;"> 
+            <div style=" padding-top: 100PX;">
+                <img style="width: 250PX; border-radius: 500PX;" src="photo/Boerboel.png" alt="">
+                <p>Lorem ipsum dolor site amet cosectetur adipisicing elit. Aliquid,repellendus </p>
+            </div>
+            <div>
+                <img style="width: 250PX; border-radius: 500PX;" src="photo/caucasian.png" alt="">
+                <p>Lorem ipsum dolor site amet cosectetur adipisicing elit. Aliquid,repellendus </p>
+            </div>
+            <div style=" padding-top: 100PX;">
+                <img style="width: 250PX; border-radius: 500PX;" src="photo/jaman shepherd.png" alt="">
+                <p>Lorem ipsum dolor site amet cosectetur adipisicing elit. Aliquid,repellendus </p>
+            </div>
+        </div>
+    </div>
+
+    <div style=" padding-bottom: 20px; background-color: rgba(167, 163, 163, 0.904); text-align: center;">
+       <h2 style="font-size: 42px;"> Our Services </h2> 
+       <p> We provide top-notch solutions pets to your needs</p>
+    </div>
+
+
+ 
+
+</body>
+</html>
